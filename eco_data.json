@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Almaty",
+        "water_quality": 60.0,
+        "air_pollution": 55.0
+    },
+    {
+        "name": "Atyray",
+        "water_quality": 45.0,
+        "air_pollution": 70.0
+    }
+]
